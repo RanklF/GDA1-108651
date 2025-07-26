@@ -2,7 +2,7 @@
 
 Submitted by 108651
 
-## Introduction to Pandas DataFrames - Replicating an article in Markdown"
+## Introduction to Pandas DataFrames - Replicating an article in Markdown
 
 **Included Files:**
 
